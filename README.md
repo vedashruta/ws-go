@@ -1,4 +1,4 @@
-# WebSocket Server with Fiber
+# WebSocket Server with Go-Fiber
 
 This project demonstrates how to create a WebSocket server using the Fiber framework in Go
 The server maintains all connections in a variable and broadcasts messages to all connections except the sender.
